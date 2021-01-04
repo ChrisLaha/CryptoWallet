@@ -8,3 +8,4 @@
 - Derive the wallet using subprocess  
 - Create flags in command for mnemonic, coin, and numdrive, then output in json
 - Link accounts and send transactions
+  
